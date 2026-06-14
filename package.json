@@ -1,0 +1,19 @@
+{
+  "name": "@inputactions/types",
+  "version": "0.10.0",
+  "license": "GPL-3.0-or-later",
+  "exports": {
+    ".": {
+      "types": "./src/main.d.ts"
+    },
+    "./core": {
+      "types": "./src/core.d.ts"
+    },
+    "./desktop": {
+      "types": "./src/desktop.d.ts"
+    },
+    "./fs": {
+      "types": "./src/fs.d.ts"
+    }
+  }
+}
